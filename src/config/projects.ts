@@ -20,16 +20,16 @@ export const awardsIntro = "Recognition for academic and professional achievemen
 
 export const awards: Array<ActivityItemType> = [
   {
-    name: 'Outstanding Teacher Award',
-    description: '',
+    name: 'American AMC advance',
+    description: 'Both AMC A and B promote',
     date: '2024',
     location: 'SCLS, Shanghai',
   },
   {
-    name: 'Zhui Ying Award',
-    description: '',
+    name: 'Australian AMC First Prize',
+    description: 'get 113 points',
     date: '2023',
-    location: 'Qingpu, Shanghai',
+    location: 'SCLS, Shanghai',
   },
 ]
 
